@@ -18,9 +18,13 @@
 
 ### Variables
 
+
 * `API_HASH` Your API Hash from my.telegram.org
+* 5afbe7e4b134b774317fb5f32fe4f978
 * `APP_ID` Your API ID from my.telegram.org
+* 23834354
 * `TG_BOT_TOKEN` Your bot token from @BotFather
+* 7002002340:AAH7p_TDhJCtVgDy7mNgRl-1PeOQ2QmdNlM
 * `OWNER_ID` Must enter Your Telegram Id
 * `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
 * `DATABASE_URL` Your mongo db url
